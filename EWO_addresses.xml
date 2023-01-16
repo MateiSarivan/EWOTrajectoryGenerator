@@ -1,4 +1,8 @@
 <Addresses>
+  <Language>
+      <Python>C:\\Users\\simat\\.conda\\envs\\EWO\\python.exe</Python>
+      <Pythonw>C:\\Users\\simat\\.conda\\envs\\EWO\\pythonw.exe</Pythonw>      
+  </Language>
   <UR5>
       <RobotCell>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\RobotCell\\UR5Station.rdk</RobotCell>
       <TrajectoryGeneration>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Horn\\hrn7.py</TrajectoryGeneration>
