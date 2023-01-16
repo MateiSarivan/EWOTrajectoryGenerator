@@ -1,0 +1,26 @@
+<Addresses>
+  <UR5>
+      <RobotCell>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\RobotCell\\UR5Station.rdk</RobotCell>
+      <TrajectoryGeneration>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Horn\\hrn7.py</TrajectoryGeneration>
+      <RobotSimulation>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Horn\\simulaterobot2.py</RobotSimulation>
+      <RobotExecution></RobotExecution>
+  </UR5>
+  <UR10>
+      <RobotCell>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\RobotCell\\UR10Station.rdk</RobotCell>
+      <TrajectoryGeneration>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Horn\\hrn10.py</TrajectoryGeneration>
+      <RobotSimulation>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Horn\\simulaterobot10.py</RobotSimulation>
+      <RobotExecution>tanmaypatil@xyz.com</RobotExecution>
+  </UR10>
+  <Yaskawa>
+      <RobotCell>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Steelwrist\\YaskawaPositionerSteelWrist.rdk</RobotCell>
+      <TrajectoryGeneration>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Horn\\hrn7.py</TrajectoryGeneration>
+      <RobotSimulation>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Horn\\simulaterobot2.py</RobotSimulation>
+      <RobotExecution>tanmaypatil@xyz.com</RobotExecution>
+  </Yaskawa>
+  <Fanuc>
+      <RobotCell>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\Forcecell\\FanucCell.rdk</RobotCell>
+      <TrajectoryGeneration>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\FORCEcell\\trajectories.py</TrajectoryGeneration>
+      <RobotSimulation>C:\\Users\\simat\\OneDrive\\Desktop\\ElementaryOperations\\FORCEcell\\simulaterobot.py</RobotSimulation>
+      <RobotExecution>tanmaypatil@xyz.com</RobotExecution>
+  </Fanuc>
+</Addresses>
